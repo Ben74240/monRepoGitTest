@@ -1,1 +1,1 @@
-Ceci est un simple entrainement pour utiliser GIT
+<h1 align="center">ceci est un entrainement</h1>
